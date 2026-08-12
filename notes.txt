@@ -1,1 +1,2 @@
 Learning Git Day 1
+Git is awesome
